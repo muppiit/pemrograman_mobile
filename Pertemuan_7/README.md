@@ -9,7 +9,7 @@
 ## Praktikum 
 
 ### Langkah 1: Buat Project Baru
-membuat project baru dengan nama flutter_plugin_pubdev
+membuat project baru dengan nama flutter_plugin_pubdev<br>
 ![alt text](img/1.png)
 
 ### Langkah 2: Menambahkan Plugin
@@ -18,7 +18,7 @@ Menambahkan plugin auto_size_text
 Jika berhasil, maka akan tampil nama plugin beserta versinya di file pubspec.yaml pada bagian dependencies.
 
 ### Langkah 3: Buat file `red_text_widget.dart
-Membuat file red_text_widget.dart di dalam folder lib
+Membuat file red_text_widget.dart di dalam folder lib<br>
 ![alt text](img/3.png)
 
 ### Langkah 4: Tambah Widget AutoSizeText
